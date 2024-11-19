@@ -16,3 +16,4 @@ langchain_mistralai
 langchain_huggingface
 wikipedia
 youtube_search
+faiss-cpu 
